@@ -5,7 +5,6 @@ const TOUR_STEPS = [
   {
     target: ".tour-logo",
     content: "This is our tour logo.",
-    disableBeacon: true,
   },
   {
     target: ".tour-cart",
