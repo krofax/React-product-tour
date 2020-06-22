@@ -99,6 +99,7 @@ const Tour = () => {
           tooltipContainer: {
             textAlign: "left",
           },
+          
           buttonBack: {
             marginRight: 10,
           },
