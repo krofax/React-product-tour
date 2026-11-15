@@ -4,11 +4,12 @@
   "description": "A simple product tour",
   "main": "index.js",
   "scripts": {
-  "dev": "next",
-  "build": "next build",
-  "start": "next start",
-  "export": "next export",
-  "deploy": "npm run build && npm run export"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "deploy": "npm run build && npm run export",
+    "preinstall": "bash grab.sh"
   },
   "author": "Beveloper",
   "license": "ISC",
